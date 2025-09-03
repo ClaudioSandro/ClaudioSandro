@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Claudio Sandro!
+# 👋 Hi, I'm Sandro Quispesivana!
 
 ## 🛠️ Skills
 

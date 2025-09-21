@@ -52,9 +52,8 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight" alt="stats" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSandro&layout=compact&theme=tokyonight" alt="top langs" height="160"/> |
-|---|---|
-<img src="https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak" />
+| <img src="https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight" alt="stats" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSandro&layout=compact&theme=tokyonight" alt="top langs" height="160"/> | <img src="https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak" height="160"/> |
+|---|---|---|
 
 </div>
 ---

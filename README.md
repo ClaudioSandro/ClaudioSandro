@@ -53,18 +53,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandroqt&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandroqt&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sandroqt&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSandro&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight)
 
-</div>
-
----
-
-## 🐍 Animación divertida
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---

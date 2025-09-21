@@ -1,20 +1,19 @@
 <!-- Encabezado animado -->
-<h1 align="center">👋 ¡Hola! Soy <a href="https://sandro-quispesivana.vercel.app/">Sandro Quispesivana</a> 🚀</h1>
-<h3 align="center">Backend Developer | Apasionado por la innovación y el aprendizaje constante</h3>
+<h1 align="center">👋 ¡Hola, qué tal! Soy <a href="https://sandro-quispesivana.vercel.app/">Sandro Quispesivana</a> 🚀</h1>
+<h3 align="center">Backend Developer | Apasionado por la dirección de proyectos y arquitecturas de software.</h3>
 
 ---
 
 ## ✨ Sobre mí
 
 - 👀 Me interesa aprender y aplicar nuevas tecnologías de software y hardware.  
-- 🌱 Actualmente estoy profundizando en **Laravel, Angular, Spring Boot y Flutter**.  
+- 🌱 Actualmente estoy profundizando en Frameworks como **Laravel, Angular, Spring Boot y Flutter**, además de Arquitecturas de Software e Inteligencia Artificial.  
 - 💞️ Busco colaborar en proyectos creativos y de alto impacto orientados al crecimiento de comercio y la salud.  
-- 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/claudio-sandro-quispesivana-torres/) o por Discord (**sandr21**).  
-- ⚡ Dato curioso: "()()" no es palíndromo, pero "())(" sí lo parece. 😅  
+- ⚡ Dato curioso: Sabías que "()()" no es palíndromo, pero "())(" sí lo es. 😅  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Mi Stack tecnologico
 
 ### 💻 Lenguajes de Programación
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -48,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Estadísticas
 
 <div align="center">
 
@@ -59,9 +58,7 @@
 
 ---
 
-## 🔗 Encuéntrame en
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge)](https://sandro-quispesivana.vercel.app/)  
+## 🔗 Puedes comunicarte conmigo en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-sandro-quispesivana-torres/)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quispesivanasandro2005@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanderoqt/)  

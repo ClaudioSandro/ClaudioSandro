@@ -1,14 +1,14 @@
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola! Soy <a href="https://sandro-quispesivana.vercel.app/">Sandro Quispesivana</a> 🚀</h1>
-<h3 align="center">Fullstack Developer | Apasionado por la innovación y el aprendizaje constante</h3>
+<h3 align="center">Backend Developer | Apasionado por la innovación y el aprendizaje constante</h3>
 
 ---
 
 ## ✨ Sobre mí
 
 - 👀 Me interesa aprender y aplicar nuevas tecnologías de software y hardware.  
-- 🌱 Actualmente estoy profundizando en **React, Angular, Spring Boot, Flutter y Laravel**.  
-- 💞️ Busco colaborar en proyectos creativos y de alto impacto.  
+- 🌱 Actualmente estoy profundizando en **Laravel, Angular, Spring Boot y Flutter**.  
+- 💞️ Busco colaborar en proyectos creativos y de alto impacto orientados al crecimiento de comercio y la salud.  
 - 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/claudio-sandro-quispesivana-torres/) o por Discord (**sandr21**).  
 - ⚡ Dato curioso: "()()" no es palíndromo, pero "())(" sí lo parece. 😅  
 
@@ -27,7 +27,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### 🌐 Frameworks & Librerías
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -53,12 +52,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSandro&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight)
+| <img src="https://github-readme-stats.vercel.app/api?username=sandroqt&show_icons=true&theme=tokyonight" alt="stats" height="160"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandroqt&layout=compact&theme=tokyonight" alt="top langs" height="160"/> | <img src="https://streak-stats.demolab.com?user=sandroqt&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak" height="160"/> |
+|---|---|---|
 
 </div>
-
 ---
 
 ## 🔗 Encuéntrame en

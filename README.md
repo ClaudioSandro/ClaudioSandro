@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Backend Developer · Arquitectura de Software · Domain-Driven Design
+  FullStack Developer · Arquitectura de Software · Domain-Driven Design
 </p>
 
 <p align="center">
@@ -12,18 +12,15 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🎯 Sobre mí
 
-Soy **estudiante de Ingeniería de Software** con experiencia en desarrollo backend, integración de APIs,
-bases de datos y despliegue de aplicaciones.
+Soy **estudiante de Ingeniería de Software** con experiencia en desarrollo backend, integración de APIs, bases de datos y despliegue de aplicaciones.
 
-Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negocio**, aplicando buenas
-prácticas de arquitectura y principios de diseño. Me adapto bien al trabajo en equipo y priorizo la
-calidad del código y la claridad técnica.
+Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negocio**, aplicando buenas prácticas de arquitectura y principios de diseño. Me adapto bien al trabajo en equipo y priorizo la calidad del código y la claridad técnica.
 
 ---
 
-## 🎯 Áreas de enfoque
+## 🧠 Áreas de enfoque
 
 - Backend Development (APIs REST)
 - Arquitectura de Software
@@ -32,19 +29,6 @@ calidad del código y la claridad técnica.
 - Integración Backend–Frontend–Mobile
 - Seguridad y autenticación (JWT, Sanctum)
 - Trabajo colaborativo bajo Scrum
-
----
-
-## 🧠 Experiencia destacada
-
-### Backend Developer — Devdatep Consulting (Prácticas)
-📍 Lima, Perú · 2025
-
-- Implementación de **APIs REST** en **PHP / Laravel**
-- Integración de **procedimientos almacenados SQL** para dashboards y KPIs
-- Desarrollo de módulos de **autenticación y recuperación de contraseñas**
-- Uso de **Laravel Sanctum** para protección de endpoints
-- Versionamiento y trabajo colaborativo con **Git y GitHub**
 
 ---
 
@@ -77,23 +61,6 @@ calidad del código y la claridad técnica.
 
 ---
 
-## 📊 GitHub Analytics
-
-> Uso widgets estables y visuales (menos fallos que `top-langs`)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClaudioSandro&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📂 Proyectos relevantes
 
@@ -101,9 +68,8 @@ calidad del código y la claridad técnica.
   Plataforma de telemedicina con backend en **Java + Spring Boot**, APIs REST, JWT, MySQL
   y enfoque en **Domain-Driven Design**.
 
-- **CambiaZo / TechZo**  
-  Aplicación móvil orientada a economía circular, con integración backend, arquitectura modular
-  y uso de IA para asistencia inteligente.
+- **Streamspace**  
+  Aplicación web para gestion reservas de espacios de produccion dedicado para streamers pequeños-medianos en Perú. Hecha con **Angular + Spring Boot**.
 
 ---
 

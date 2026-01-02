@@ -1,67 +1,122 @@
-<!-- Encabezado animado -->
-<h1 align="center">👋 ¡Hola, qué tal! Soy <a href="https://sandro-quispesivana.vercel.app/">Sandro Quispesivana</a> 🚀</h1>
-<h3 align="center">Backend Developer | Apasionado por la dirección de proyectos y arquitecturas de software.</h3>
+<h1 align="center">
+  Hola, soy <a href="https://sandro-quispesivana.vercel.app/">Sandro Quispesivana</a>
+</h1>
+
+<p align="center">
+  Backend Developer · Arquitectura de Software · Domain-Driven Design
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ClaudioSandro&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
 ---
 
-## ✨ Sobre mí
+## 👨‍💻 Sobre mí
 
-- 👀 Me interesa aprender y aplicar nuevas tecnologías de software y hardware.  
-- 🌱 Actualmente estoy profundizando en Frameworks como **Laravel, Angular, Spring Boot y Flutter**, además de Arquitecturas de Software e Inteligencia Artificial.  
-- 💞️ Busco colaborar en proyectos creativos y de alto impacto orientados al crecimiento de comercio y la salud.  
-- ⚡ Dato curioso: Sabías que "()()" no es palíndromo, pero "())(" sí lo es. 😅  
+Soy **estudiante de Ingeniería de Software** con experiencia en desarrollo backend, integración de APIs,
+bases de datos y despliegue de aplicaciones.
 
----
-
-## 🛠️ Mi Stack tecnologico
-
-### 💻 Lenguajes de Programación
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-### 🌐 Frameworks & Librerías
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-### ⚙️ DevOps & Herramientas
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### 🧪 Testing & QA
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negocio**, aplicando buenas
+prácticas de arquitectura y principios de diseño. Me adapto bien al trabajo en equipo y priorizo la
+calidad del código y la claridad técnica.
 
 ---
 
-## 📊 GitHub Estadísticas
+## 🎯 Áreas de enfoque
 
-<div align="center">
+- Backend Development (APIs REST)
+- Arquitectura de Software
+- Domain-Driven Design (DDD)
+- Clean Code & SOLID
+- Integración Backend–Frontend–Mobile
+- Seguridad y autenticación (JWT, Sanctum)
+- Trabajo colaborativo bajo Scrum
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioSandro&layout=compact&theme=tokyonight" alt="top langs" /> | <img src="https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak" /> |
-|---|---|
+---
 
-</div>
+## 🧠 Experiencia destacada
+
+### Backend Developer — Devdatep Consulting (Prácticas)
+📍 Lima, Perú · 2025
+
+- Implementación de **APIs REST** en **PHP / Laravel**
+- Integración de **procedimientos almacenados SQL** para dashboards y KPIs
+- Desarrollo de módulos de **autenticación y recuperación de contraseñas**
+- Uso de **Laravel Sanctum** para protección de endpoints
+- Versionamiento y trabajo colaborativo con **Git y GitHub**
 
 ---
 
-## 🔗 Puedes comunicarte conmigo en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-sandro-quispesivana-torres/)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quispesivanasandro2005@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanderoqt/)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sandr21)  
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,ts,js,python" />
+</p>
+
+### Frameworks & Plataformas
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,angular,flutter" />
+</p>
+
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+</p>
+
+### Testing & Documentación
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
 ---
+
+## 📊 GitHub Analytics
+
+> Uso widgets estables y visuales (menos fallos que `top-langs`)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudioSandro&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ClaudioSandro&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClaudioSandro&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📂 Proyectos relevantes
+
+- **HormonalCare**  
+  Plataforma de telemedicina con backend en **Java + Spring Boot**, APIs REST, JWT, MySQL
+  y enfoque en **Domain-Driven Design**.
+
+- **CambiaZo / TechZo**  
+  Aplicación móvil orientada a economía circular, con integración backend, arquitectura modular
+  y uso de IA para asistencia inteligente.
+
+---
+
+## 🌐 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/claudio-sandro-quispesivana-torres/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:quispesivanasandro2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sandro-quispesivana.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>

@@ -14,7 +14,7 @@
 
 ## 🎯 Sobre mí
 
-Soy **estudiante de Ingeniería de Software** con experiencia en desarrollo backend, integración de APIs, bases de datos y despliegue de aplicaciones.
+Soy **estudiante de Ingeniería de Software** con experiencia en desarrollo frontend, backend, integración de APIs, bases de datos y despliegue de aplicaciones.
 
 Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negocio**, aplicando buenas prácticas de arquitectura y principios de diseño. Me adapto bien al trabajo en equipo y priorizo la calidad del código y la claridad técnica.
 
@@ -22,6 +22,7 @@ Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negoc
 
 ## 🧠 Áreas de enfoque
 
+- Frontend Development (Components & Routing)
 - Backend Development (APIs REST)
 - Arquitectura de Software
 - Domain-Driven Design (DDD)
@@ -36,22 +37,22 @@ Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negoc
 
 ### Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,ts,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,cs,php,ts,js,python" />
 </p>
 
 ### Frameworks & Plataformas
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,angular,flutter" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,laravel,angular,react,vue,flutter" />
 </p>
 
 ### Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase," />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,git,github" />
 </p>
 
 ### Testing & Documentación
@@ -59,13 +60,19 @@ Me enfoco en construir **soluciones mantenibles, escalables y orientadas a negoc
   <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
+### IDES
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,rider,webstorm" />
+</p>
+
+
 ---
 
 
 ## 📂 Proyectos relevantes
 
 - **HormonalCare**  
-  Plataforma de telemedicina con backend en **Java + Spring Boot**, APIs REST, JWT, MySQL
+  Plataforma de telemedicina desarrollada con **Angular + Flutter + Spring Boot** y **Vue + .NET Framework**, JWT, MySQL, Supabase
   y enfoque en **Domain-Driven Design**.
 
 - **Streamspace**  
